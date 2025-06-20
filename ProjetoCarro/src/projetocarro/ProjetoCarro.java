@@ -6,6 +6,7 @@ public class ProjetoCarro {
     public static void main(String[] args) {
         // TODO code application logic here
         // instanciando a classe carro;
+        
         Scanner entrada = new Scanner(System.in);
         
         

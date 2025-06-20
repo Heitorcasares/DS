@@ -18,7 +18,7 @@ public class Jetsky {
     }
     
     void buzinarJ(){
-        System.out.println("Kombi buzinando");
+        System.out.println("Jet ski buzinando");
     }
     
     void drift(String x){

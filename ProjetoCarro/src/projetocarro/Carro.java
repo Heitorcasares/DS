@@ -17,6 +17,7 @@ public class Carro {
     int vel;
     
     //métodos
+    
     void acelerar(int aceleracao){
         vel+=aceleracao;
     }
