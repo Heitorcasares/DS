@@ -12,15 +12,15 @@ public class Escola {
         
         System.out.println("Aluno 1: ");
         System.out.println("Nome: "+aluno1.nome);
-        System.out.println("Total gasto nas cópias: R$"+aluno1.tirarCopias(200));
+        System.out.println("Total gasto nas cópias: R$"+aluno1.tirarCopias(100));
         System.out.println(" ");
         System.out.println("Professor 1: ");
         System.out.println("Nome: "+prof1.nome);
-        System.out.println("Total gasto nas cópias: R$"+prof1.tirarCopias(120));
+        System.out.println("Total gasto nas cópias: R$"+prof1.tirarCopias(100));
         System.out.println(" ");
         System.out.println("Funcionario 1: ");
         System.out.println("Nome: "+funcionario1.nome);
-        System.out.println("Total gasto nas cópias: R$"+funcionario1.tirarCopias(900));
+        System.out.println("Total gasto nas cópias: R$"+funcionario1.tirarCopias(100));
     }
     
 }
